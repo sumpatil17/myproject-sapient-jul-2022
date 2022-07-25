@@ -8,11 +8,18 @@ created by sumedh for experimenting with Git etc.
 
 ## commit workflow
 
--git and filename
-
 ## checking status
 
 git status
+
+## commit workflow
+
+-git and filename
+git commit -m"about project"
+
+## checking commit history
+
+-git log
 
 ## Downloads and references
 
