@@ -21,6 +21,12 @@ git commit -m"about project"
 
 -git log
 
+## adding and checking project file to remote location
+
+-git remote add origin remote_name remote_url
+-Generally the default remote is called `origin`
+-git remote -v
+
 ## Downloads and references
 
 -https://git-scm.com/
