@@ -27,6 +27,14 @@ git commit -m"about project"
 -Generally the default remote is called `origin`
 -git remote -v
 
+## git push
+
+-Example
+git push -u origin master
+
+-later on
+git push
+
 ## Downloads and references
 
 -https://git-scm.com/
